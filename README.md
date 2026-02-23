@@ -25,7 +25,7 @@
 <h3 align="center"> Connect with me </h3>
 <p align="center">
 <a href = "https://www.linkedin.com/in/dashrathmundkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/devops_sre18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/devops_sre18"><img src="https://img.icons8.com/fluent/48/000000/x.png"/></a>
 </p>
 
 <h3 align="center"> Stackoverflow </h3>
@@ -33,14 +33,14 @@
 <a href="https://stackoverflow.com/users/8053714/dashrath-mundkar"><img src="https://stackoverflow.com/users/flair/8053714.png" width="200" height="58" alt="profile for Dashrath Mundkar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dashrath Mundkar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
-<h3 align="center"> Latest Tweets on Twitter </h3>
+<h3 align="center"> Latest Tweets on X </h3>
 
 <p align="center"> 
-   <a href="https://twitter.com/dash_mundkar"> <img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+   <a href="https://x.com/devops_sre18"> <img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=x&logoColor=white"></a> 
 </p>
 
 <p align="center">
-<img src ="https://github-readme-twitter.gazf.vercel.app/api?id=dash_mundkar&layout=wide"/> 
+<img src ="https://github-readme-x.gazf.vercel.app/api?id=dash_mundkar&layout=wide"/> 
 </p>
 
 <h3 align="center"> Views and Followers  </h3>
