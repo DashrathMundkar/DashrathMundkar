@@ -83,6 +83,15 @@ Over the years, I've worked across the full DevOps lifecycle — from infrastruc
     <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" style="text-decoration: none;"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTYHUSnd_ij0PHUmheMQiI8wRIvAi_v329lcx1ku0F5zwT8MeSMBvTWXzb0uHYYlu6Co&usqp=CAU" alt="ArgoCD" width="50" height="50"/> 
     </a>
+    <a href="https://kyverno.io/" target="_blank" style="text-decoration: none;">
+      <img src="https://ayedo.de/apps/kyverno-logo.png" alt="Kyverno" width="65" height="65"/>
+    </a>
+    <a href="https://helm.sh/" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/helm.svg" alt="Helm" width="50" height="50"/>
+    </a>
+    <a href="https://podman.io/" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/podman.svg" alt="Podman" width="50" height="50"/>
+    </a>
 </p>
 
 <p align="center">
@@ -136,7 +145,7 @@ Over the years, I've worked across the full DevOps lifecycle — from infrastruc
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -145,13 +154,6 @@ Over the years, I've worked across the full DevOps lifecycle — from infrastruc
 
 <img height="170"
      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashrathMundkar&theme=github_dark" />
-
-<img height="170"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashrathMundkar&theme=github_dark&utcOffset=1" />
-
-<img height="180"
-     src="https://streak-stats.demolab.com?user=DashrathMundkar&theme=dark&hide_border=true" />
-
 </div>
 
 <!-- Stack Overflow & Latest Activity -->
@@ -163,14 +165,7 @@ Over the years, I've worked across the full DevOps lifecycle — from infrastruc
   </a>
 </p>
 
-<p align="center">
-  <a href="https://x.com/devops_sre18">
-    <img src="https://img.shields.io/badge/-Follow%20on%20X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-</p>
-
 ---
-
 <!-- Visitors & Followers -->
 <h2 align="center">📈 Profile Stats</h2>
 
