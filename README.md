@@ -25,7 +25,7 @@ Hi, I'm Dashrath
 </p>
 
 <p align="center">
-I'm a <strong>DevOps Engineer with 7+ years of experience</strong> designing, automating, and scaling cloud-native infrastructure using Azure, Kubernetes, and modern DevOps tooling. I specialize in building high-availability platforms, optimizing CI/CD pipelines, and enabling engineering teams to ship software faster, safer, and with full observability.
+I'm a <strong>DevOps Engineer with 8+ years of experience</strong> designing, automating, and scaling cloud-native infrastructure using Azure, Kubernetes, and modern DevOps tooling. I specialize in building high-availability platforms, optimizing CI/CD pipelines, and enabling engineering teams to ship software faster, safer, and with full observability.
 </p>
 
 <p align="center">
